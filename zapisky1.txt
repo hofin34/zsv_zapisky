@@ -70,11 +70,12 @@ OTÁZKA EXISTENCE STÁTU#
 - vnitřní - zajištění bezpečnosti obyvatelstva, zejména občanů
 - výhoda občana - daná země nám nemůže odebrat občanství a nemůže nás vyhostit ze země
 - získávání občanství čr:
-	- získání za života
-	- alespoň jeden rodič má občanství čr
-	- nalezení dítěte na území čr, u kterého nelze určit občanství
-	- určení otcovství
-	- adopce
+    - narození
+    - určení otcovství
+    - osvojení
+    - nalezení (dítě do 3 let)
+    - udělením (požádám o občanství a spluňuji podmínky)
+    - udělením, když mám velký přínos pro čr (vědec, ...)
 - podmínky k získání občanství:
 	- zkoušky
 	- 5 let beztrestnosti
@@ -82,6 +83,32 @@ OTÁZKA EXISTENCE STÁTU#
 	- požádání
 
 - ztráta občanství
-	- zřeknutí se občanství
-	- aktivní požádání cizího občanství (jdu na úřad a požádám, neplatí při sňatku v Americe)
+	- pouze zřeknutím se občanství
+
+- základní lidská práva mají i neobčané daného státu
+- máme právo jít do ambasády jakéhokoliv státu EU a tam s námi musí jednat jako s vlastím občanem
+
+ÚKOLY STÁTU - VNĚJŠÍ
+####################
+- ochrana před vnějšími agresory
+	- diplomacie s ostatními státy
+	- členství ve spřátelených aliancích
+	- armáda
+		- Japonsko nemá armádu, má domobranu (nemůžou mít armádu, tak to jenom nazývají jinak
+		- Island nemá vůbec armádu
+		- čeští piloti gripenů patří mezi špičku, jsou v programu ochrany vzdušného prostoru ostatních států (Island, Estonsko, Lotyšsko...)
+činitelé zahraniční politiky:
+	- primárně ministerstvo zahraničí
+		- vytváří koncepci (formuluje cíle) a ostatní to musí respektovat
+		- zabezpečuje vztahy čr s ostatními
+		- koordinuje činnost ostatních orgánů
+		- řídí zastupitelské úřády (vytváří ambasády, dosazuje pracovníky atd.)
+		- zastupuje čr v Radě EU
+		- sídlo: černínský palác v Praze
+		- Bývalí ministři zahraničí:
+			- dr. Edvard Beneš (1918 - 1935)
+			- Jan Masaryk (1940 - 1948)
+			- Jiří Háje (1968)
+
+
 
