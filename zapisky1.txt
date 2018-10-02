@@ -149,3 +149,55 @@ Cíle zahraniční politiky
 	- infrastruktura (budování silnic, železnic...)
 	- ochrana přírody
 
+STÁTNÍ MOC
+##########
+	- rozdělena, aby se nedala jednoduše zneužít
+	- Lze uplatňovat pouze v souladu a rozsahu zmocněné ze zákona
+	- Občan - co není zakázáno, je dovoleno
+	- Stát - co není dáno zákonem, nedělá
+	- Omezena hranicemi státu (nahoru vzdušný prostor, někdy část moře)
+	- Moderní stát - oddělení státních mocí - z dob osvícenství (John Locke - neměl soudní moc, ale federativní)
+		- Zákonodárná (legislativa) - stanovuje pravidla
+		- Výkonná (exekutiva) - převádí pravidla do praxe (stanovuje skrze vyhlášky metodiku, která stanoví, jak se zákon provede) 
+			- Vláda (ministerstva), úřady
+			- Např. Policie ČR - zajišťuje důkazy, pouze sankce (ne tresty)
+		- Soudní (jurisdikce) - trestá porušení
+		- Další: akuzační (státní zastupitelství), bankovní (ČNB)
+	- všechny výše uvedené moci jsou ještě rozděleny
+		- zákonodárná -> poslanecká sněmovna (každodenní), senát (krizové situace))
+		- výkonná -> vláda (každodenní), prezident (krizové s.)
+		- soudní -> obecné soudy (každodenní), ústavní soud (krizové s.)
+	- subsidiarita - základem samosprávy je obec, poté kraj, poté čr a nakonec EU
+		- řešme problémy na úrovni, které se týkají (ať neřeší stát, kdy se v obci bude svážet odpad)
+		- ZŠ jsou zřizovány obcemi, střední krajem a vysoké státem
+		- stát řeší problémy:
+			- samospráva - volené orgány
+				- zařizuje rozpočet a majetek obce
+				- může zvyšovat příjmy obce pronajímáním obecního majetku
+				- nikdo jim nekecá do toho, co dělají, když se rozhodnou, že chtějí prodat radnici, tak můžou		
+				- odpovídá se občanům
+			- státní správa - nejsou volení
+				- úředníci jsou odpovědní státu, ne voličům
+		- samospráva je důležitější než státní správa
+		- totalitní státy nadřazují státní správu samosprávě
+
+PRINCIP BRZD A ROVNOVÁH
+#######################
+	- jednotlivé pilíře si kecají do svých pravomocí
+	- zákonodárná -> výkonná - důvěra
+	- výkonná -> soudní -jmenování (soudci)
+	- zákonodárná -> soudní - dělají zákony a soud se podle toho řídí
+	- soudní -> zák. - ústavní soud ruší zákony
+	- soudní -> výk. - mají právo soudit členy vlády (nemají imunitu)
+	- výkonná -> zákonod. - vláda navrhuje zákony, prezidentské veto, ...
+
+TEORIE PRÁVNÍHO STÁTU
+#####################
+	- právní stát = stát,který se řídí zákony, které vydal
+	- přelom 18. a 19. st. v Prusku -> formální právní stát až do 2. sv. v., poté materiální právní stát
+	- formální p.s. - fašismus, nacismus, komunismus
+		- řídí se vlastními zákony, ať jsou jakékoliv
+	- materiální p.s. - dnes
+		- nad literou zákona je duch zákona - když přichází zákon, který jde proti duchu zákona, tak je neplatný (ústavní soud rozhoduje, jestli ano, nebo ne)
+		- v 1. hlavě ústavy je napsáno, co se přijímá a co ne
+		
