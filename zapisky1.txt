@@ -201,6 +201,68 @@ TEORIE PRÁVNÍHO STÁTU
 		- nad literou zákona je duch zákona - když přichází zákon, který jde proti duchu zákona, tak je neplatný (ústavní soud rozhoduje, jestli ano, nebo ne)
 		- v 1. hlavě ústavy je napsáno, co se přijímá a co ne
 
+---------------------
+ohraničení 1. písemky
+---------------------
+
 TYPOLOGIE STÁTU
 ###############
-	- zápisky jsou na stránkách	
+	- zápisky jsou na stránkách
+
+ÚSTAVA ČR
+#########
+- ústava - základní právní norma nejvyšší síly -> ádná další norma nemůže jít proti ní
+- změna / přijetí ústavy je komplikovanější - větší většina, než u stand. zákonů
+	- u nás nadpoloviční většina přítomných u normálních zák.
+	- u nás 3/5 poslanců přít. a 3/5 všech senátorů u ústavn. a senátní veto
+	- někde je ještě pro změnu ústavy požadováno referendum (my ne)
+
+	Typologie ústav: názvy neoficiální
+		- propracovaná
+			- dlouhé, rozsáhlé dokumenty
+			- lépe měnitelné
+		- rigidní (čr)
+			- obecnější charakter
+			- velmi obtížně se mění
+			- nekonrétní ustanovení
+			- poměrně srozumitelná
+		- nepsaná ústava (Velká Británie)
+			- ne jeden dokument ústava, ale soubor dokumentů, který vytváří ústavní pravidla
+
+	- česká ústava se postupně mění, je doplňována ústavními zákony (např. přímá volba prezidenta)
+	- ústava USA se nemění, jen přidávají dodatky (je jich velmi málo 20-30)
+
+	- naše ústava: ústavní zákon 1/1993 Sb.
+		- je dělena na 8 hlav + preambule
+			     preambule
+				↓
+		  	základní ustanovení
+				↓
+		 	 moc zákonodárná
+				↓
+		 	    moc výkonná
+				↓
+	      		    moc soudní
+				↓
+		     nejvyšší kontrolní úřad
+				↓
+		  	česká národní banka
+				↓
+		  	územní samospráva
+				↓
+		  přechodná a závěrečná ustanovení
+
+
+		- podle tohoto pořadí mocí zák., výk. a soudní jsme parlamentní, ne prezidentská republika
+		- účinnost - 1.1.1993
+		- platnost - 16.12.1992
+
+	LISTINA ZÁKLADNÍCH PRÁV A SVOBOD
+		- zákon 2/1993 Sb.
+		- vyjmenovává zákl. okruhy práv
+		- 5 zákl. okruhů práv:
+			- lidská
+			- politická (= občanská)
+			- práva národnostních a etnických menšin
+			- hospodářská sociální a kulturní práva
+			- právo na soudní a jinou právní ochranu
