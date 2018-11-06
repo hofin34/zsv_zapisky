@@ -266,3 +266,42 @@ TYPOLOGIE STÁTU
 			- práva národnostních a etnických menšin
 			- hospodářská sociální a kulturní práva
 			- právo na soudní a jinou právní ochranu
+	- v preambuli jsou zmíněny základní hodnoty státu
+	- v české preambuli zmíněný občanský princip, ve slovenské národnostní
+	- na Slovensku je nacionalistická strana (téměř furt), v čr do vzniku SPD žádná nebyla
+	
+Státní moc v čr
+	- do dneška nemáme celostátní referendum
+
+
+
+    poslanecká sněmovna + senát = parlament (zákonodárná moc)
+	bikameralismus - dvoukomorový parlament
+	slováci mají unikamerální model
+
+   volí parlament
+	^^
+################
+#      lid     # -> volí prezidenta čr (přímo) -> volí vládu
+################
+↓			- poslanecká sněmovna dává důvěru vládě
+krajské zastupitelstvo (rada a do čela hejtman)(45,55,65 zastupitelů)
+obecní zastupitelstvo (rada do čela starosta, u stat. měst primátor)(5-55 zastupitelů)
+
+- prezident také volí čnb, soudy
+- občané si volí zástupce do Evropského parlamentu
+
+ZÁKONODÁRNÁ MOC
+	- poslanecké sněmovny (200 členů, voleni na 4 roky)
+		- aktivní volební právo 18 (jít volit), pasivní 21 (být volen)
+		- strana musí mít alespoň 5 % celostátně, aby se dostala do sněmovny
+		- kolik %, tolik křesel
+		- sídlo na Sněmovní ulici
+	- senát
+		- 81 členů
+		- 6 roků (1/3 se obměňují)
+		- aktivní 18, pasivní 40
+		- většinový volební systém, dvoukolový systém
+			- v 1. kole kdo má víc jak 50 %, jinak jdou dál 2 s největším počtem hlasů
+		- sídlem Valdštejnský palác
+	
