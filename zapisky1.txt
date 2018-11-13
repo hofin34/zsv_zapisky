@@ -304,4 +304,64 @@ ZÁKONODÁRNÁ MOC
 		- většinový volební systém, dvoukolový systém
 			- v 1. kole kdo má víc jak 50 %, jinak jdou dál 2 s největším počtem hlasů
 		- sídlem Valdštejnský palác
+	- vznik mandátu -> zvolení = je senátorem/poslancem, složí slib = ujme se funkce
+	- čr má volný mandát
+		- poslanec ani senátor není povinnen dodržovat to, co chce jeho strana, ani nemusí dělat, co slíbil ve volbách	
+		- když si dělá co chce, strana ho může vyhodit, ale mandát nezaniká
+	- imperativní mandát
+		- v Británii
+		- mandát patří straně, ne jednotlivcům
+	- zánik mandátu - nesplní slib, složení s výhradou (když nebude odporovat jeho víře atd.)
+		- nelze odebrat, zaniká po 6 letech
+		- vzdá se mandátu
+		- úmrtí
+		- ztráta volitelnosti - úmrtí, porušení podmínek pro zvolení (občanství, věk, svéprávnost)
+		- pokud odstoupí někdo za danou stranu, tak nastoupí náhradník z téže strany v tom stejným kraji
+	- sněmovna může být propuštěna za jistých podmínek, senát nemůže být propuštěn!
+	- neslučitelné věci poslance a senátora:
+		- nemůže být v senátu && v parlamentu
+		- nemůže být soudce, prezident, v Evropským parlamentu
+		
+	- imunita zákonodárců
+		- vzniká ve Velké Británii (aby král nemohl ovlivňovat zákony)
+		- aby měli pocit bezpečí a mohli bezpečně hlasovat
+		- tři druhy: politická, přestupková, trestně právní
+		- politická 
+			- nelze ho stíhat za to, jak hlasuje
+			- za projevy ve sněmovně nebo v senátu nemůže být stíhán
+			- Bárta podplácel ve sněmovně, ale nebyl stíhán, protože to byl projev (není specifikováno jaký)
+		- přestupková
+			- pokud nechce, tak nemusí být stíhán
+			- většinou radši zaplatí pokutu
+		- trestně právní
+			- pokud policie zjistí, že za nějaký tr.čin může poslanec/senátor, zažádá komoru, aby ho vydali 
+			- pokud ho komora odmítne vydat, tak odloží stíhání na konec mandátu
+			- policie ho může zadržet při páchání tr.činu., ale stejně musí mít souhlas
 	
+	- výbory x kluby -> výbory jsou důležitější
+		- výbory: pro odborné posuzování návrhů zákona
+			- musí být součástí alespoň jednoho výboru
+			- povinné: mandátový a imunitní - aby se ověřila platnost mandátů, posuzuje imunitu
+				- petiční - projednávání petic (musí odpovídat na jakékoliv dotazy do určité lhůty)
+			- výbor zahraičí; zemědělský výbor; školský výbor; pro evropskou integraci...
+		- kluby: nejsou povinné, jsou organizovány podle stranické příslušnosti (klub ANO, klub ČSSD...)
+			- zajišťují kancelářský servis
+			- domlouvají se, jak budou hlasovat (neodborně, jen jestli to vyhovuje jejich straně)
+							
+	- náplň poslance/senátora: práce ve výboru, plenární zasedání (není příliš důležité), jeden den v týdnu ve svém volebním obvodě (musí tam mít kancelář)
+
+
+KDO MÁ PRÁVO DÁVAT NÁVRHY ZÁKONŮ?
+	- legislativní iniciativu má: 
+		- vláda (rozpočet je povinný)
+		- poslanec
+		- skupina poslanců
+		- krajské zastupitelstvo
+		- senát
+
+
+	- schvaluje: posl.sněm., senát a prezident
+	- rozpočet a senátní zák. schvaluje pouze sněmovna (jde ještě k prezidentovi)
+
+
+
