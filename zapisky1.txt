@@ -360,8 +360,24 @@ KDO MÁ PRÁVO DÁVAT NÁVRHY ZÁKONŮ?
 		- senát
 
 
-	- schvaluje: posl.sněm., senát a prezident
+	- schvaluje: posl.sněm. ->  senát -> prezident
 	- rozpočet a senátní zák. schvaluje pouze sněmovna (jde ještě k prezidentovi)
 
-
-
+	- podává se předsedovi poslanecké sněmovny, přeposílá automaticky organizačnímu výboru PS
+		-> rozhodne, kterému odbornému výboru půjde
+		-> určí zpravodaje
+		-> vyjádří se vláda (nemůžou zamítnout)
+		-> 1. čtení = obecná rozprava - hlasuje se, jestli se má na takovém zákoně nadále pracovat
+			-> pokud zamítnou, tak se buď:
+				- úplně zamítne
+				- dá se překladateli (tvůrci), aby to přepracoval
+			- legislativní nouze (vyhlašuje vláda) - zákon se přijímá rovnou v 1. čtení
+		-> pokračuje do výboru - domýšlí detaily 
+		-> 2. čtení - výbory doporučují další postup
+			- obecná a podrobná rozprava
+			- řeší se detaily
+		-> 3. čtení - nejdříve se hlasuje o pozměňovacích návrzích 
+			- hlasování o finální podobě (jestli se tam přidají pozměňovací návrhy atd.)
+			-> buď definitivně zamítnut
+			-> nebo může být vrácen do 2. čtení
+			-> nebo se odhlasuje a je poslán do senátu
