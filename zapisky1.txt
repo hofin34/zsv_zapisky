@@ -593,7 +593,7 @@ ONTOLOGIE
 
 2. dělení ontologických postojů:
 	podle počtu prvních příčin: právě 1, právě 2, větší počet příčin
-		- Monismus je ontologický postoj, podle kterého svět vzniká působením právě jedny příčiny
+		- Monismus je ontologický postoj, podle kterého svět vzniká působením právě jedné příčiny
 			- křesťanská filosofie - monistický idealismus
 		- Dualismus je ontologický postoj, podle kterého svět vzniká spolupůsobením právě dvou příčin
 			- hmotná a nehmotná příčina
@@ -603,12 +603,12 @@ ONTOLOGIE
 			- jing a jang
 			- Aristoteles, René Descartes
 		- Pluralismus - ... větší počet příčin
-			- konkrétní počet
-			- nekonkrétní počet
+			- konkrétní počet (4 živly)
+			- nekonkrétní počet (atomismus)
 
 			- teorie 4 živlů - voda, vzduch, země, ohěň
 GNOSEOLOGIE
-	- filosofický obor, který se zabývá přůběhem poznávání světa
+	- filosofický obor, který se zabývá průběhem poznávání světa
 	- jak přesné, jakou výpovědní hodnotu mají metody používané pro pozn. světa (experiment, modelování, pozorování)
 	- zákl. gnoseologická otázka: Je svět poznatelný?
 		- podotázky: je poznatelný celý, beze zbytku?, vadí to? můžeme tomu i tak rozumět? jaké metody používáme?, ..
@@ -619,3 +619,83 @@ GNOSEOLOGIE
 			- svět není nutně takový, jak se nám jeví
 	Svět je poznatelný = gnoseologický optimismus (neoficiální název)
 		- př. marxisté (je takový, jak se jeví + lze úplně poznat)
+
+	Dělení:
+		- empirismus - gnoseologický postoj, podle kterého v procesu poznání světa jsou v hlavní roli smysly
+			- rozum nic nevymyslí bez smyslů
+			- primární je sběr informací, zpracování je vedlejší
+			- John Locke
+				- Tabula rasa
+			- opírají se o přírodní vědy
+			- indukce
+			- speciální případ -> obecný závěr
+		- racionalismus - gnoseologický postoj, podle kterého PRIMÁRNÍ je v procesu poznání rozum
+			- zásadnější je zpracování informací než jejich sběr
+			- René Descartes
+			- opírají se o exaktní vědy
+			- dedukce
+			- obecný závěr -> speciální případ
+			
+		- Immanuel Kant tvrdí, že obě dělení jsou důležité (18./19.st)
+	- vyhrocený empirismus = sensualismus
+		- smysly jsou ke sbíraní a vyhodnocování dat a rozum je pouze úložný prostor
+	- solipsismus (já, sám) - existují smyslové počitky a vjemy a svět je pouze můj obsah vědomí, který je dán činností mých smyslových orgánů
+ 
+FILOSOFIE SPOLEČNOSTI
+	- filosofická věda, která se zabývá zkoumáním podstaty a fungováním lidské společnosti
+	- Proč společnost existuje?
+	- Jak je možné, že je člověk ochoten omezovat se nějakou společností?
+	- John Locke
+	- filosofická věda zabývající se podstatou a fungováním lidské společnosti
+	UTOPISMUS  = ideální, úplně spravedlivé uspořádání společnosti 
+		- hledá dokonalé uspořádání lidské společnosti
+		- řešení: přes majetkovou rovnost (zrušení osobního vlastnictví)
+		renesance: Thomas More: Utopie (=nejsoucí místo, u-topos)
+			Tomasso Campanella: Sluneční stát (O slunečním státě)
+				- teokratická totalita
+
+	REALISTÉ
+		- popisují reálný stav společnosti - dnes politologové
+		Renesance: Nicolo Machiavelli: Vladař
+		Antika: Aristoteles: Politika
+	
+- Společenská smlouva, vzdáváme se části svobody za ochranu od společnosti = kontraktariáni
+Thomas Hobbes: HOMO HOMINI LUPUS: člověk člověku v vlk - žádná jistota
+John Locke
+J.J. Rousseau: Inspirátor velké fr. rev.
+
+
+ETIKA = filosofická věeda zabývající se chováním člověka v kategorii dobra a zla (co je dobro a zlo)
+	- dělí se na:
+		- Deskriptivní - rezignuje na hledání normy, pouze popisuje aktuální stav
+		- Normativní - stanovuje normy (např. náboženské, marxistické) 
+
+FILOSOFICKÁ ESTETIKA
+	- původně znamenalo smyslové vnímání
+	- obor, který zkoumá, jakým způsobem člověk vnímá krásno
+	- libost x nelibost
+	- záleží na zvyku, na události, na vábnosti, symetričnosti...
+	- rozlišuje 2 druhy krásna:
+		- přírodní - hory, lesy, lidské osoby...
+		- umělá
+
+LOGIKA
+	- ?
+OBOROVÉ FILOSOFIE
+	- věda, která se zabývá studováním základů daného problému
+	- filosofie práva, filosofie dějin (jestli jde predikovat postup dějin...)
+
+
+##################
+#DĚJINY FILOSOFIE#
+##################
+- vzniká v 7./6. st. př.n.l. ve starověkém Řecku (město Mílétos, území Malé Asie, nejedná se o dnešní Řecko)
+- Prokopovi smrdí šourek
+- medicína, astronomie (předvídání záplav), matematika -> vědy před filosofií se lišily tím, že byly čistě praktické oproti filosofii
+- řekové měli kontakty s různými státy -> vyměňování názorů (státy s jinými kulturami)
+- nebyl autoritativní režim, mohli přemýšlet nad různými věcmi 
+- Někteří tvrdí, že je řečtina abstraktní jazyk, se kterým můžou hodně uvažovat
+- měli hláskové písmo (jednoduché) => hodně gramotných lidí
+	=> člověk začal hledat nové fungování světa, protože staré mu už nestačilo (přestalo stačit mytologické vysvětlení, začali vymýšlet racionální vysvětlení)
+
+- Proč vznik v Malé Asii? - zemědělec nemá kreativní myšlení oproti obchodníkům -> proto vznik v Malé Asii a ne v Pevninském Recku 
