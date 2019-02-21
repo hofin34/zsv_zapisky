@@ -699,3 +699,101 @@ OBOROVÉ FILOSOFIE
 	=> člověk začal hledat nové fungování světa, protože staré mu už nestačilo (přestalo stačit mytologické vysvětlení, začali vymýšlet racionální vysvětlení)
 
 - Proč vznik v Malé Asii? - zemědělec nemá kreativní myšlení oproti obchodníkům -> proto vznik v Malé Asii a ne v Pevninském Recku 
+
+- vzniká nejdříve na Maloasijském území (jsou zde spíše materialisté)(Mílétos), poté Velké Řecko (spíše idealisté) (jih Itálie + Sicílie)
+	
+
+
+Dělení:
+	I. Antická filosofie
+		1. Presokratici
+			A. Mílétská škola (7./6.st.př.n.l.)
+		2. Klasická řecká filosofie
+		3. Hellénismus
+		4. Novoplatónismus
+	II. Středověká fil.
+	III. Renesance
+	IV. Novověká fil.
+	V. Německá klasická filosofie (přináší novou filosofii)
+	VI. Moderní filosofie
+
+- filosofové se dělí do tzv. filosofických škol (mají podobnou interpretaci světa)
+
+Mílétská škola
+	- Thalés z Milétu (624-548)
+		- začal racionálně uvažovat - přemýšlel nad věcmi
+		- vypočítal zatmění Slunce
+		- spočítal výšku pyramid
+		- věnuje se ontologii
+		- hledá 1. příčinu světa (ARCHÉ), myslí si, že je to voda
+		- materialista a monista
+		- dal základy etice
+		- má etické výroky - je autorem Zlatého pravidla morálky = chovej se k ostatním tak, jak chceš, aby se ostatní chovali k tobě, jednej tak, aby...
+		- je těžké stát se řádným (když už se jím staneme, zůstaneme tak)
+		- 
+
+	- veškeré informace, které o těchto lidech máme, vychází ze zlomků (nemáme kontext, interpretace jsou sepsány později)
+	
+	- Anaximenés (546-528)
+		- arché je vzduch (podle hustoty vzduchu je věc pevná nebo ne)
+	- Anaximandros (610-546)
+		- arché je APEIRON - něco chaotického, neurčitého, věčného, nevzniká, nezaniká
+			- věci se vynořují z apeira a získávají podobu
+			- zánik je rozpliznutí do apeira
+
+		
+Pythagorova škola
+	- Pythagoras ze Samu (580-500)
+		- působí v jižní Itálii ve městě Krotón
+		- Pythagorejská žena = předpis pro vzdělanou, uznávanou bytost		- nehledají primárně arché světa, hledají řád, na kterém svět funguje
+		- řád je matematicky spočitatelný, matematická pravidla jsou neměnný
+	- formální příčina, statický řád, dynamika je traumatizující
+	- příčina je číslo
+	- hudba = matematika v praxi
+	- logos
+	
+	- řekové neznali nulu a záporná čísla, lichá čísla jsou špatná (nejdou rozdělit na 2 hezké poloviny)
+	- 1 je počátek, dvojka je rozvinutí bodu do přímky, trojka je rozvinutí přímky do plochy, 4 je rozvinutí plochy do prostoru
+	- věří v převtělování duší
+		- považují duši za nehmotnou a nesmrtelnou
+		- i rostliny mají duše
+
+Herakleitos z Efesu
+	- "vše plyne"
+	- "nevstoupíš 2x do téže řeky"
+	- základní charakteristikou světa je jeho nekonečná proměnlivost
+	- tajemný filosof
+	- všechny se mění kromě proměnlivosti (proměnlivost je konstanta = poznatek)
+	- podstatou světa je oheň (periodický vznik a zánik světa)
+		- popírá zásluhu bohů u vzniku světa
+	- učení: Jednota a boj protikladů - protiklady se vzájemně potřebují
+	- existuje pouze jedinné univerzum, které se nemění, uvnitř je svět, který se mění
+	- formuluje základy zákonů zachování
+
+Kratylos
+	- žák Herakleita
+	- "nevstoupíš ani jednou do téže řeky" - to že zkoumáme svět znamená, že ho měníme
+
+
+D. Elejská škola
+	- Elea (Vilie)
+	- idealismus, monismus, racionalismus  
+	- ovlivnili další idealismus, ale Platón to převálcoval jeho jménem
+	- odmítá smyslové poznání
+	- kritizují Herakleita
+
+	Xenofanés
+		- kritik antropomorfního polyteismu
+		- bůh je věčný a jeden, nemá rozlišitelné části těla (kulové podoby)
+	Parmenides Elejský(540 př.n.l) 
+		- největší postava idealismu před Platonem
+		- dochovaný poměrně souvislý text
+		- O nejsoucím, čili o přírodě - filosofická báseň
+			- svět, který se neustále proměňuje, nemůže být jsoucí (kritika Herakleita)
+			- kdy to jsme my? Když měříme 100 cm nebo 150 cm? ...
+			- skutečnost je pochybná
+
+	Zénon Elejský
+		- žák Parmenida
+		- bráni Parmenidovy teorie
+		- aporie - neřešitelné hádanky
