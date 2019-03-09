@@ -839,3 +839,4 @@ F) Atomisté
 		- existuje plný a prázdný prostor
 			- plný = atomy
 			- prázdný = místo, ve kterém jsou atomy umístěny
+	//// Poslal skripta 
